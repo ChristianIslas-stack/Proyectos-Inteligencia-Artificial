@@ -19,7 +19,10 @@ Como desarrollador con experiencia en la creación de plataformas web y aplicaci
 
 *   Python
 *   Jupyter Notebook
-*   [Agrega aquí librerías clave que hayas usado, e.g., Pandas, NumPy, TensorFlow, Scikit-learn]
+*   Pandas
+*   Numpy
+*   Matplotlib
+*   Sckitilearn
 
 ---
 
@@ -27,4 +30,4 @@ Como desarrollador con experiencia en la creación de plataformas web y aplicaci
 
 Soy un estudiante universitario enfocado en la resolución práctica de problemas tecnológicos. Me apasiona construir proyectos de principio a fin, combinando el desarrollo de software (gestión de bases de datos JSON, interfaces interactivas) con la integración de hardware y microcontroladores (Arduino, ESP32) para crear prototipos funcionales y medibles. Disfruto colaborar activamente en equipo y mantengo un enfoque constante en la eficiencia técnica.
 
-📫 **Contacto:** [Tu Correo Electrónico] | [Enlace a tu perfil de LinkedIn si tienes]
+📫 **Contacto:** islas.r.christian222.2124@gmail.com
